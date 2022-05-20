@@ -1,1 +1,1 @@
-alert(´Comando básicos Linux´)
+alert("Comando básicos Linux")
